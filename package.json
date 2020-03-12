@@ -186,7 +186,7 @@
     "jszip": "^3.2.2",
     "jwt-decode": "^2.2.0",
     "lodash": "^4.17.15",
-    "mkdirp": "^0.5.1",
+    "mkdirp": "^1.0.0",
     "nanomatch": "^1.2.13",
     "ncjsm": "^4.0.1",
     "node-fetch": "^1.7.3",
